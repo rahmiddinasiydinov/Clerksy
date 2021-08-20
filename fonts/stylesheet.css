@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Recoleta Alt';
+    src: url('RecoletaAlt-SemiBold.eot');
+    src: local('Recoleta Alt SemiBold'), local('RecoletaAlt-SemiBold'),
+        url('RecoletaAlt-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('RecoletaAlt-SemiBold.woff2') format('woff2'),
+        url('RecoletaAlt-SemiBold.woff') format('woff'),
+        url('RecoletaAlt-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Recoleta';
+    src: url('Recoleta-SemiBold.eot');
+    src: local('Recoleta SemiBold'), local('Recoleta-SemiBold'),
+        url('Recoleta-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Recoleta-SemiBold.woff2') format('woff2'),
+        url('Recoleta-SemiBold.woff') format('woff'),
+        url('Recoleta-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
